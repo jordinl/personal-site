@@ -2,6 +2,7 @@
 layout: post
 title:  How to generate random geocoordinates within a given radius using the Haversine Formula
 date:   2019-02-15
+image: /assets/img/eiffel-tower.png
 ---
 
 {% raw %}
