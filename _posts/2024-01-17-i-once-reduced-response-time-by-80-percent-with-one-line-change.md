@@ -38,3 +38,7 @@ had dropped 80%, it also looked flat now instead of having lots of peaks and val
     The pink solid line represents new response time and the pink dotted line old response time
   </small>
 </p>
+
+<p class='flex'>
+  <img src='/assets/img/pat-bateman-approves.gif' alt='Pat Bateman approves' />
+</p>
