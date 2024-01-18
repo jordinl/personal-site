@@ -2,11 +2,12 @@
 layout: default
 ---
 
-# Hello I'm Jordi!
+# Hola, I'm Jordi.
 
-I'm a Software Engineer with more than 14 years experience. I work mainly with Ruby on Rails but I also have extensive experience with NodeJS and ReactJS. I've worked in London, San Francisco and New York, for companies of different sizes, from as little as 3 people to 1000s of people. Now I work remotely from Barcelona, preferably looking for contract work, but I'm open to discuss permanent positions if they sound interesting.
-
-I can help you get your project through the finish line. I like simplicity and solving complex problems. I can also provide feedback around roadmap, product management and project management. 
+I'm a Software Engineer with more than 15 years experience. I work mainly with Ruby on Rails but I also have 
+extensive experience with NodeJS and ReactJS. I've worked in London, San Francisco and New York, for companies of 
+different sizes, from as little as 3 people to 1000s of people. I've been working remotely from Barcelona since 2015.
+Currently I work for [saas.group](https://saas.group) as part of the [Rewardful](https://rewardful.com) team.
 
 Some examples of my work are:
 
