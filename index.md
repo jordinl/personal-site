@@ -7,7 +7,8 @@ layout: default
 I'm a Software Engineer with more than 15 years experience. I work mainly with Ruby on Rails but I also have 
 extensive experience with NodeJS and ReactJS. I've worked in London, San Francisco and New York, for companies of 
 different sizes, from as little as 3 people to 1000s of people. I've been working remotely from Barcelona since 2015.
-Currently I work for [saas.group](https://saas.group) as part of the [Rewardful](https://rewardful.com) team.
+I'm the creator of [hnhiring](https://hnhiring.com). And I'm currently building [jobanni](https://jobanni.com), 
+a search engine for jobs.
 
 Some examples of my work are:
 
